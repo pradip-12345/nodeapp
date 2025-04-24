@@ -3,7 +3,7 @@ const app = express();
 
 // Respond with "Hello World" when a GET request is made to the root "/"
 app.get('/', (req, res) => {
-  res.send('Hello from Nodejs App');
+  res.send('Hello from pradip Nodejs App');
 });
 
 // Add this line to start the server
